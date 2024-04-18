@@ -1,5 +1,6 @@
+![MasterHead](https://developer.apple.com/news/images/og/apple-developer-og.png)
 <h1 align="center">Olá👋, eu sou Robert Wilson</h1>
-<h3 align="center">Sou estudante de Sistema de Informação</h3>
+<h3 align="center">Estudante de Sistema de Informação</h3>
 
 
 - 🔭 Atualmente, estou desenvolvendo **Rick And Morty Search**
