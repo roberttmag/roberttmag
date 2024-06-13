@@ -3,11 +3,11 @@
 <h3 align="center">Estudante de Sistema de Informação</h3>
 
 
-- 🔭 Atualmente, estou desenvolvendo ** - **
+- 🔭 Atualmente, estou desenvolvendo ** Ferias**
 
 - 🌱 Estou estudando **Bootstrap, Flutter, JavaScript, React**
 
-- 👯 Colaborei com este progeto [Buraco de Freitas](https://buracodefreitas.vercel.app/) [WallDreams](https://github.com/roberttmag/WallDreams)
+- 👯 Colaborei com este progeto [Buraco de Freitas](https://buracodefreitas.vercel.app/), [WallDreams](https://github.com/roberttmag/WallDreams)
 
 - 👨‍💻 Todos os meus projetos [https://github.com/roberttmag](https://github.com/roberttmag)
 
